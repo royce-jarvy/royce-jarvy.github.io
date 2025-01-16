@@ -1,26 +1,25 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Royce Jarvy Uy",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://media.discordapp.net/attachments/744013829758779502/1329330042760593438/image.png?ex=6789f293&is=6788a113&hm=4337bb8fe9484c98ed4a515e4dbd3fa66d975d13b43111517fa271fac037e98d&=&format=webp&quality=lossless",
+    "email": "rjuy@hawaii.edu",
+    "phone": "808-628-8505",
+    "website": "https://royce-jarvy.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2026. I am aiming to get a job in either game development or software development in the future.",
+    "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "royce-jarvy", "url": "http://github.com/royce-jarvy" },
+      { "network": "linkedin", "username": "roycejarvyuy", "url": "https://www.linkedin.com/in/royce-jarvy-uy-739450347/" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Game Development" },
+    { "name": "Software Development" },
+    { "name": "Cybersecurity" },
+    { "name": "eSports" }
   ],
   "skills": [
     {
