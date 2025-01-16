@@ -2,7 +2,7 @@
   "basics": {
     "name": "Royce Jarvy Uy",
     "label": "Student",
-    "picture": "https://media.discordapp.net/attachments/744013829758779502/1329330042760593438/image.png?ex=6789f293&is=6788a113&hm=4337bb8fe9484c98ed4a515e4dbd3fa66d975d13b43111517fa271fac037e98d&=&format=webp&quality=lossless",
+    "picture": "https://media.discordapp.net/attachments/744013829758779502/1329333426922193008/portfoliopic.png?ex=6789f5ba&is=6788a43a&hm=41b1478a02007604499134896db10f1479829afbe1f69d439620a7f8de22f1fa&=&format=webp&quality=lossless",
     "email": "rjuy@hawaii.edu",
     "phone": "808-628-8505",
     "website": "https://royce-jarvy.github.io",
@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "royce-jarvy", "url": "http://github.com/royce-jarvy" },
-      { "network": "linkedin", "username": "roycejarvyuy", "url": "https://www.linkedin.com/in/royce-jarvy-uy-739450347/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "roycejarvyuy", "url": "https://www.linkedin.com/in/royce-jarvy-uy-739450347/" }
     ]
   },
   "interests": [
