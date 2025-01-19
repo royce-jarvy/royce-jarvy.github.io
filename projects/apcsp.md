@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
+title: "AP CSP Performance Task"
 date: 2023-05-07
 published: true
 labels:
