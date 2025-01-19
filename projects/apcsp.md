@@ -12,7 +12,7 @@ summary: "I created a basic app naming some compounds for chemistry as a submiss
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/apcsp/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../img/apcsp/apcspapp.png" class="img-thumbnail" >
 </div>
 
 As part of the AP Computer Science Principles curriculum, the creation of a simple app was required for the final performance task. The app was a culmination of the basic programming concepts we learned throughout the course including input/output, functions, and algorithms. In addition, we were required to create a video demonstrating the functionality of the program as well create a write-up to explain why our program meets the requirements. For more information of the performance task's rubric, it can be found here: https://apcentral.collegeboard.org/media/pdf/ap23-sg-computer-science-principles.pdf
