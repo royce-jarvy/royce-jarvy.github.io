@@ -13,7 +13,7 @@ summary: "Participated in the Hivestorm 2024 competition and placed 148 out of 4
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/hivestorm/VMWare.png" class="img-thumbnail" >
+  <img width="200px" src="../img/hivestorm/VMware.png" class="img-thumbnail" >
   <img width="200px" src="../img/hivestorm/windows2022.png" class="img-thumbnail" >
 </div>
 
