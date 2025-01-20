@@ -12,7 +12,7 @@ summary: "Helped develop a rouge-like dungeon crawler game alongside GameDev clu
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="img/gamejam/Tezcat_TitleScreen.png" class="img-thumbnail" >
+  <img src="img/gamejam/Tezcat_TitleScreen.png" class="img-fluid" >
 </div>
 
 I participated in UH GameDev's Game Jam in the Fall 2024 semester. We were tasked to make a game with the theme of temptation. After brainstorming, we went with the direction of a rouge-like dungeon crawler game, where players had to collect treasures and deposit them for gold/points. The theme is exercised with the idea that heavier treasures are worth more at the risk of slowing the player down. This idea of high risk, high reward tempts the player to take more risks. The project was done through Unity and as such scripted in C#.
