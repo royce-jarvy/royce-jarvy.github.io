@@ -13,8 +13,8 @@ summary: "Participated in the Hivestorm 2024 competition and placed 148 out of 4
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/hivestorm/VNWare.png" class="img-thumbnail" >
-  <img width="200px" src="../img/hivestorm/windows22.png" class="img-thumbnail" >
+  <img width="200px" src="../img/hivestorm/VMWare.png" class="img-thumbnail" >
+  <img width="200px" src="../img/hivestorm/windows2022.png" class="img-thumbnail" >
 </div>
 
 Hivestorm is a collegiate cybersecurity competition under the CIAS Competition system. The competition involves the practice of system administration and configuration. For instance, we had to remove malware, configure user access, and set up different services. Competitors worked on both Windows and Linux systems, provided through virtual machines. For this year's competition, we were tasked with two Windows Server 2022, Linux Rocky, and Linux Mint. Each system also had a difficulty, ranging from Easy to Hard. Points were accumulated through "correct" actions dictated by the instruction sheet. In contrast, losing points were possible for not following instructions or due to penalties (like disabling a service). It is important to note that not every task was listed and some had to be figured out through inference, which was a part of the challenge.
