@@ -21,4 +21,4 @@ Though we were given an option to work with a partner, I chose to do this indepe
 
 When I took this class, I already had previous experiences with programming so a lot of the concepts weren't new to me. However, the experience with this project and the design process were still valuable because it encouraged me to apply what I know to create something on my own. Also, I'd say this experience gave some preparation when it comes to programming assignments and projects for college-level courses.
 
-Here is a link to the project: https://studio.code.org/projects/applab/VzmIT8Ps92a0N8RHJPQ2u_MWEvR2XtEdEyJon3mOliQ (To view source code, there should be a button on the top right).
+Here is a link to the project: [Naming Binary Covalent Compounds](https://studio.code.org/projects/applab/VzmIT8Ps92a0N8RHJPQ2u_MWEvR2XtEdEyJon3mOliQ) (To view source code, there should be a button on the top right).
