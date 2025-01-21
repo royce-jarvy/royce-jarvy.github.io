@@ -2,7 +2,7 @@
   "basics": {
     "name": "Royce Jarvy Uy",
     "label": "Student",
-    "picture": "img/portfoliopic.jpg",
+    "picture": "../img/portfoliopic.jpg",
     "email": "rjuy@hawaii.edu",
     "phone": "808-628-8505",
     "website": "https://royce-jarvy.github.io",
