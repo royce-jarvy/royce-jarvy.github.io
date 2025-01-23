@@ -10,7 +10,7 @@ labels:
   - Interests
 ---
 
-<img class="img-fluid" src="../img/gamestart.jpg">
+<img src="../img/gamestart.jpg" style="display: block; margin: auto;">
 # Press Start
 This game of getting into software engineering started when I was younger: from the computer in the corner of my family’s room all the way back in the Philippines. I was introduced to computers at such a young age and my curious mind wondered: how does this work? Why does this happen when I press this? These thoughts and imaginations scurried throughout my brain. In addition, my father introduced me to video games on the computer. To name a few, he showed me Counter Strike and a collection of web games available through Facebook. This world of video games sparked something in me. I was so enamored by the fantasies they represented and how things functioned. Even after moving to Hawaii in 2012, this passion and joy remained. Before I knew it, I became attached to computers and video games.
 
