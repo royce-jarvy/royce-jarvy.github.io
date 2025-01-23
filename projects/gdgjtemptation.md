@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/gamejam/gamedevlogo.png
 title: "UHM GameDev Game Jam: Temptation"
-date: 2024-7 to 2024-12
+date: 2024-9 to 2024-12
 published: true
 labels:
   - Unity
