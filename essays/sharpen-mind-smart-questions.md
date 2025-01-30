@@ -18,11 +18,11 @@ In the vast and complex space of software engineering, encountering obstacles is
 # Asking Smart Questions
 
 Smart questions aim to add a layer of depth to the problem at hand. For instance, a smart question may include a specific goal, the problem they have that prevents them from attaining said goal, as well as the measures they’ve taken to attempt to overcome it. All in all, you aren’t merely looking for an answer given at face value, you’re looking to understand the problem itself and what procedures can be taken to solve it. 
-
+<img width="200px" align="right" src="../img/man-thinking.jpg">
 From Stack Overflow, a website for programming-related questions and answers, I’ve found an example of what could be considered a [“smart” question](https://stackoverflow.com/questions/73635850/is-it-possible-to-have-a-default-css-style-if-no-other-styles-are-applied). 
 
 Prior to formally asking, the user provided context and described the intended goal of their program. In this case, they were attempting to find a simple way to set a default CSS style for “button” that could be overridden by other classes. Furthermore, they’ve provided an example of their own implementation that achieved the goal to an extent, in which the other class only overrode a portion of the default. All things considered, the user finally asked if there was an alternate implementation that would achieve the goal.
-<img width="200px" class="rounded float-start pe-4" src="../img/man-thinking.jpg">
+
 This is a clear cut example of a “smart” question because the user included a specific goal, a measure they took in attempting to achieve the goal to express effort, and asked a specific question in regards to the context. 
 
 By following the format of a “smart” question, the user received two detailed answers that actually helped them with their problem. These solutions included technicalities of CSS and other code that could replicate the behavior of the goal.
