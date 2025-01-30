@@ -12,7 +12,7 @@ labels:
 
 
 # Question the Questions You’re Asking
-
+<img width="200px" align="center" src="../img/thinking.webp">
 In the vast and complex space of software engineering, encountering obstacles is inevitable. Whether it comes to writing a piece of code or having issues with a version of an IDE, problems are sure to arise. For that reason, it is a crucial asset for software engineers to exercise good communication skills through asking “smart” questions to attain efficient, specific solutions to their problem. In contrast, there exists “stupid” questions which achieve the opposite: unproductive answers. Overall, it’s important to be cognizant of the types of questions that we are asking.
 
 # Asking Smart Questions
@@ -22,7 +22,7 @@ Smart questions aim to add a layer of depth to the problem at hand. For instance
 From Stack Overflow, a website for programming-related questions and answers, I’ve found an example of what could be considered a [“smart” question](https://stackoverflow.com/questions/73635850/is-it-possible-to-have-a-default-css-style-if-no-other-styles-are-applied). 
 
 Prior to formally asking, the user provided context and described the intended goal of their program. In this case, they were attempting to find a simple way to set a default CSS style for “button” that could be overridden by other classes. Furthermore, they’ve provided an example of their own implementation that achieved the goal to an extent, in which the other class only overrode a portion of the default. All things considered, the user finally asked if there was an alternate implementation that would achieve the goal.
-
+<img width="200px" class="rounded float-start pe-4" src="../img/man-thinking.jpg">
 This is a clear cut example of a “smart” question because the user included a specific goal, a measure they took in attempting to achieve the goal to express effort, and asked a specific question in regards to the context. 
 
 By following the format of a “smart” question, the user received two detailed answers that actually helped them with their problem. These solutions included technicalities of CSS and other code that could replicate the behavior of the goal.
