@@ -12,7 +12,7 @@ labels:
 
 
 # Question the Questions You’re Asking
-<img width="200px" align="center" src="../img/thinking.webp">
+<img width="200px" class="rounded float-start pe-4" src="../img/thinking.webp">
 In the vast and complex space of software engineering, encountering obstacles is inevitable. Whether it comes to writing a piece of code or having issues with a version of an IDE, problems are sure to arise. For that reason, it is a crucial asset for software engineers to exercise good communication skills through asking “smart” questions to attain efficient, specific solutions to their problem. In contrast, there exists “stupid” questions which achieve the opposite: unproductive answers. Overall, it’s important to be cognizant of the types of questions that we are asking.
 
 # Asking Smart Questions
