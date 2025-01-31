@@ -42,7 +42,7 @@
   ], 
   "volunteer": [
     {
-      "organization": "UH Manoa ACM",
+      "organization": "UH Manoa ACM SIGs",
       "website": "",
       "position": "Professional Organization Involvement",
       "startDate": "",
@@ -56,10 +56,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
+      "title": "State of Hawaii B Plus Scholarship",
       "date": "2023-Present",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Scholarships awarded to incoming students who graduated from a Hawaii public high school and completed a rigorous high school curriculum while maintaing a minimum GPA of 3.0."
     },
     {
       "title": "Manoa Academic Merit Scholarship",
