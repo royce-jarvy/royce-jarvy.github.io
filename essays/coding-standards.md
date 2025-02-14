@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Sharpening the Mind with Smart Questions"
+title: "Coding Standards: The Key to Quality Code"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-13
 published: true
