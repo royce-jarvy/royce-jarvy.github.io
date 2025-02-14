@@ -36,12 +36,13 @@ From what I learned from ICS111, I built a habit of following coding standards w
 <br>
 # The Dreaded Redline
 <img align="right" width="400px" src="../img/coding-standards/redlinescopy.png">
-Now that I am taking ICS314 (a software engineering course), I am once again facing coding standards. This time around, it is definitely different due to using Visual Studio Code, an integrated development environment that allows extensions to modify the coding workspace. 
+Now that I am taking ICS314 (a software engineering course), I am once again facing coding standards. This time around, it is definitely different due to using Visual Studio Code, an integrated development environment (IDE) that allows extensions to modify the coding workspace. 
 
 Specifically, we’re using ESLint to actually enforce the coding standards, whereas previous IDEs did not have a strict enforcement. In other words, writing code that did not follow said standards would result in an error. 
 
-Like my initial experiences with coding standards, I also find this to be tedious mainly because of it actually resulting in an error. Also, seeing a multitude of red lines can be an eye-sore! Besides that, I know that this is very helpful because it keeps the code organized. Later on in the course when we begin the group project, this will especially come in handy because having multiple collaborators is bound to cause disorganization without coding standards.
+Like my initial experiences with coding standards, I find ESLint's enforcement of standards to be tedious mainly because of how it produces errors. Also, seeing a multitude of red lines can be an eye-sore! Besides that, I know that this is very helpful because it keeps the code organized. Later on in the course when we begin the group project, this will especially come in handy because having multiple collaborators is bound to cause disorganization without coding standards.
 
+Outside the benefit of organizing code, I think the addition of ESLint to my IDE helps with being accustomed to new coding languages. The reason being ESLint is efficient in finding and explaining errors in the code. Moreover, the fact that ESLint gives better alternatives or methods of writing a particular code makes it so user-friendly. One example of this is when I was coding in Typescript, I thought you could use the "any" and "unknown" types interchangably because both of them serve the same purpose of holding any type of variable. But, I found out through ESLint's assistance that using "unknown" is better due to its type-safety property, in which it ensures data types for that variable are consistent.
 <br>
 
 # Conclusion
