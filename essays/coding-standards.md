@@ -39,10 +39,10 @@ Now that I am taking ICS314 (a software engineering course), I am once again fac
 
 Specifically, we’re using ESLint to actually enforce the coding standards, whereas previous IDEs did not have a strict enforcement. In other words, writing code that did not follow said standards would result in an error. 
 
+<img align="right" width="500px" src="../img/coding-standards/redlinescopy.png">
+
 Like my initial experiences with coding standards, I also find this to be tedious mainly because of it actually resulting in an error. Also, seeing a multitude of red lines can be an eye-sore! Besides that, I know that this is very helpful because it keeps the code organized. Later on in the course when we begin the group project, this will especially come in handy because having multiple collaborators is bound to cause disorganization without coding standards.
 
-
-<img align="right" width="500px" src="../img/coding-standards/redlinescopy.png">
 
 # Conclusion
 
