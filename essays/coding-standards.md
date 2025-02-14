@@ -29,9 +29,9 @@ Despite what appears to be a negative experience, I’m really grateful that I h
 
 From what I learned from ICS111, I built a habit of following coding standards whenever they were set. It was not enforced in ICS211 (the “second part” of ICS111), yet I followed coding standards from ICS111 to remain consistent. During ICS212, programing in C and C++, they were once again enforced. Of course, my past experiences were able to help me remain consistent with following standards during ICS212. 
 
-
-<img class="img-fluid" src="../img/coding-standards/codinglanguages.png">
-
+<div class="text-center p-4">
+  <img class="img-fluid" src="../img/coding-standards/codinglanguages.png">
+</div>
 
 # The Dreaded Redline
 
@@ -42,8 +42,7 @@ Specifically, we’re using ESLint to actually enforce the coding standards, whe
 Like my initial experiences with coding standards, I also find this to be tedious mainly because of it actually resulting in an error. Also, seeing a multitude of red lines can be an eye-sore! Besides that, I know that this is very helpful because it keeps the code organized. Later on in the course when we begin the group project, this will especially come in handy because having multiple collaborators is bound to cause disorganization without coding standards.
 
 
-<img class="rounded float-start pe-4" src="../img/coding-standards/redlinescopy.png">
-
+<img align="right" width="500px" src="../img/coding-standards/redlinescopy.png">
 
 # Conclusion
 
