@@ -37,9 +37,9 @@ From what I learned from ICS111, I built a habit of following coding standards w
 
 Now that I am taking ICS314 (a software engineering course), I am once again facing coding standards. This time around, it is definitely different due to using Visual Studio Code, an integrated development environment that allows extensions to modify the coding workspace. 
 
-Specifically, we’re using ESLint to actually enforce the coding standards, whereas previous IDEs did not have a strict enforcement. In other words, writing code that did not follow said standards would result in an error. 
+<img align="right" width="400px" src="../img/coding-standards/redlinescopy.png">
 
-<img align="right" width="500px" src="../img/coding-standards/redlinescopy.png">
+Specifically, we’re using ESLint to actually enforce the coding standards, whereas previous IDEs did not have a strict enforcement. In other words, writing code that did not follow said standards would result in an error. 
 
 Like my initial experiences with coding standards, I also find this to be tedious mainly because of it actually resulting in an error. Also, seeing a multitude of red lines can be an eye-sore! Besides that, I know that this is very helpful because it keeps the code organized. Later on in the course when we begin the group project, this will especially come in handy because having multiple collaborators is bound to cause disorganization without coding standards.
 
