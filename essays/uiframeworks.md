@@ -35,9 +35,10 @@ When using only HTML/CSS to do this WOD, one of the biggest challenges I had was
 <img class="rounded float-start pe-4" src="../img/frameworks/bhistoryhc.png" height="200px">
 
 <br> <br>
+
 On the other hand, rebuilding this same site with Bootstrap 5 was amazing! The classes to create a navigation bar at the top meant that I did not have to “brute force” the spacing as it was already done by the classes. To add on, Bootstrap 5 allows simpler design of columns with classes “row” and “col” to designate the positioning of the columns. See below how the columns look more uniform than the one with raw HTML/CSS? That is the power of Bootstrap 5 coming to fruition!
 <img class="rounded float-start pe-4" src="../img/frameworks/bhistorybs5.png" height="200px">
-
+<br> <br>
 # Conclusion
 Overall, Bootstrap 5’s capabilities of designing websites in a simpler manner puts it above designing with raw HTML/CSS. The learning curve that comes with Bootstrap 5 is definitely worth the time and effort when it comes to being a better web designer. As such, learning UI frameworks is a valuable asset in streamlining web design.
 
