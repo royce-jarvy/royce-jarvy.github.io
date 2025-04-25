@@ -38,7 +38,7 @@ To further help visualize this, envision design patterns as “tools” that are
 As one may expect, there are a bunch of software engineering design patterns! They are also categorized to help represent what type of problem they’re meant to solve. These include creational patterns that involve creating objects (essentially an entity with a state, behavior, or overall purpose), structural patterns that organize and set relationships between objects, and behavioral patterns that “facilitate” communication between objects.
 
 <div class="text-center p-4">
-  <img class="img-fluid" src="../img/coding-standards/design-pattern-types.png">
+  <img class="img-fluid" src="../img/design-patterns/design-pattern-types.png">
 </div>
 
 With so many design patterns, I’ll personally talk about a few I’ve used throughout my time as a computer science major.
