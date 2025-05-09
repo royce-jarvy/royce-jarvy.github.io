@@ -11,6 +11,9 @@ labels:
 ---
 
 # Making Effort Estimates
+<div>
+<img width="200px" class="rounded float-start" src="../img/idpm/clock.png">
+</div>
 
 To create my effort estimates, I used the practice WODs as a basis of estimating how much time it would take me to complete a certain task. More specifically, I used the times I got on the WODs to properly assess these estimates. For example, in the second milestone, we converted the mockups we made (that were originally in HTML/CSS) into React-Bootstrap. To make my estimate for this task, I based it around our WODs (like Island-Snow) that involved converting HTML/CSS to React-Bootstrap. For tasks we didn’t really cover through the WODs, my general rule of thumb was to make the estimate around 60 minutes. My thought process behind this was if I didn’t know how to do something, it would probably take me around an hour or more to do. An example of this is in our recent milestone where I linked companies mapped in the browsing page to their respective profiles. A lot of the intuition behind completing this task involved the way ID’s worked in relational databases, which I didn’t really have much experience with. Hence, I estimated it to be sixty minutes. Overall, that is how I estimated my effort.
 
