@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/ai-img.jpg">
 
 # I. Introduction
 
@@ -57,6 +57,9 @@ I didn’t really add comments or documentation in my code this time around so b
 
 ## 13) Quality Assurance
 Throughout the duration of the course, I definitely ran into a lot of bugs I could not track down but with the help of GitHub Copilot, it definitely helped with the debugging process. One example was during the final project and it involved data querying. It was a simple mistake but it involved an add function (specifically adding a job for a company) and how one of the properties was not included in the validation schema, preventing the whole query from working. By using GitHub Copilot, it explained what the error was and directly pointed to the location of the error.
+
+## 14) Other Uses
+N/A
 
 # III. Impact on Learning and Understanding
 I think the incorporation of AI to my learning experience isn’t too great. While it has definitely helped me a lot in this class and other courses, it deprives me of the experience and the struggle with getting a solution. I also think it doesn’t help with memorizing or retaining information on things like how to implement something or what the functionality does. Its convenience has definitely been a bad influence on me and in the future, I need to keep myself accountable and avoid using AI as much as possible to get the most of my learning experience.
