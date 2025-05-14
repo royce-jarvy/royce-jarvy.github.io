@@ -12,6 +12,7 @@ labels:
 ---
 
 <img src="../img/software-engineering.jpg" style="display: block; margin: auto;">
+
 # Retracing My Steps
 
 With the semester coming to a close, it’s important to look back on what I’ve learned and the skills I’ve gained through my time in ICS 314, a software engineering course focused on web development. Out of the ICS classes I’ve taken so far, this has been one of the most enjoyable experiences so far due to the way we learned and retained skills through implementation. For instance, the WODs that would challenge us to write code and produce a result outlined by the prompt. 
