@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/projectjanus/projectjanushomecopy.png
 title: "Project Janus Web Application"
-date: 2025-05-14
+date: 2025-04-04 to 2025-05-08
 published: true
 labels:
   - Web Development
