@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/apcsp/apcsplogo.jpg
+image: img/projectjanus/projectjanushomecopy.png
 title: "Project Janus Web Application"
 date: 2025-05-14
 published: false
@@ -13,7 +13,7 @@ summary: "For my ICS 314 final project, I worked with a team to develop Project 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/apcsp/apcspapp.png" class="img-thumbnail" >
+  <img width="200px" src="../img/projectjanus/projectjanushomecopy.png" class="img-thumbnail" >
 </div>
 
 ### Overview 
