@@ -13,7 +13,7 @@ summary: "For my ICS 314 final project, I worked with a team to develop Project 
 ---
 
 <div class="text-center p-4">
-  <img src="../img/projectjanus/projectjanushomecopy.png">
+  <img src="../img/projectjanus/projectjanushome.png">
 </div>
 
 ### Overview 
