@@ -65,4 +65,5 @@ The project was deployed via Vercel, a web hosting service company. The link to 
 
 To see more information about the project, visit our project site here: [About Project Janus](https://project-janus-3.github.io/project-janus.github.io/). 
 
-The source code can be found in the project site but for easy access, it is listed here: [Project Janus Repository](https://github.com/project-janus-3/project-janus)
+The source code can be found in the project site above but for easy access, it is listed in the organization repository: [Project Janus Organization](https://github.com/project-janus-3)
+
