@@ -10,8 +10,6 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ai-img.jpg">
-
 # I. Introduction
 
 The advancement of generative artificial intelligence (AI) in recent years has made significant changes in the fields of education and software engineering industry. Though controversial, in both cases, AI has been frequently used to “streamline” progression. Whether it comes to explaining concepts or having it write code, it’s clear that its benefit of simplifying things may lead to a greater dependence on it in the future. It is important to note that AI is not necessarily perfect, however, many fields are making advancements to adapt and integrate AI within their respective spaces. 
