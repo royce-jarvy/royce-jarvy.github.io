@@ -60,6 +60,7 @@ Of course, I feel like this project isn't fully fleshed out. I'd like to go beyo
 ### Links
 
 The project was deployed via Vercel, a web hosting service company. The link to view it can be found here: [Project Janus](https://project-janus.vercel.app/)
+<br>
 <em>NOTICE: Vercel "pauses" deployed sites that have been inactive for more than 7 days. If kept paused for more than 90 days, the deployment is deleted. If you are trying to access the site but are unable to, this might be due to Vercel un-deploying the site. Contact to the Project Janus team can be found in the project site linked below. </em>
 
 To see more information about the project, visit our project site here: [About Project Janus](https://project-janus-3.github.io/project-janus.github.io/). 
